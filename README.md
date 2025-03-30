@@ -6,15 +6,15 @@ Hello, my name is Noah. I am 23 years old and going through online schooling to 
 ## Goals
 My current goal is to land either and internship with possible opprotunities to become full time. I aiming to get my first full-time job around the time I get my degree, which is Spring of 2026.
 
-### 🚀 Projects (Pinned Repositories)
-🔹 **[Project Name](GitHub Repo Link)** - Brief description of what it does.  
-🔹 **[Project Name](GitHub Repo Link)** - Another project description.  
-🔹 **[Project Name](GitHub Repo Link)** - One more great project.  
+### 🚀 Projects
+🔹 **[Personal Portfolio]([GitHub Repo Link](https://github.com/GojuNoah/Personal-Portfolio))** - Here is my website portfolio.  
+🔹 **[Responsive Web Design]([GitHub Repo Link](https://github.com/GojuNoah/freeCodeCamp-RWDC-Projects))** - These are all the projects for the freeCodeCamp's responsive web design certificiation.  
+🔹 **[Iconic Flavor Vault]([GitHub Repo Link](https://github.com/GojuNoah/Iconic-Flavor-Vault))** - This is for a future website project. It is going to be a database for all of your favorite iconic recipes!  
 
 ---
 
 ### 📊 GitHub Stats
-![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoahStone&show_icons=true&theme=tokyonight)
+![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=GojuNoah&show_icons=true&theme=tokyonight)
 
 📫 **Connect with me:**
 - 🌐 [Portfolio Website](your-portfolio-link.com) *(if available)*
