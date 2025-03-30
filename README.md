@@ -17,9 +17,8 @@ My current goal is to land either and internship with possible opprotunities to 
 ![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=GojuNoah&show_icons=true&theme=tokyonight)
 
 📫 **Connect with me:**
-- 🌐 [Portfolio Website](your-portfolio-link.com) *(if available)*
-- 💼 [LinkedIn](linkedin.com/in/yourprofile) *(if available)*
-- 🐦 [Twitter](twitter.com/yourhandle) *(if available)*
+- 🌐 [Portfolio Website](your-portfolio-link.com)
+- 💼 [LinkedIn]([linkedin.com/in/yourprofile](https://www.linkedin.com/in/noah-stone-5b3689190/))
 
 ---
 
